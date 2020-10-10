@@ -6,15 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="birthdaydemo" />
-        <module name="mavdemo" />
-        <module name="fs" />
+        <module name="chatrobot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="birthdaydemo" target="1.8" />
-      <module name="fs" target="1.5" />
-      <module name="mavdemo" target="1.8" />
+      <module name="chatrobot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

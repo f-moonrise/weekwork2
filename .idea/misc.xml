@@ -2,11 +2,14 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/birthdaydemo" />
+    <file type="web" url="file://$PROJECT_DIR$/mavdemo" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/birthdaydemo/pom.xml" />
+        <option value="$PROJECT_DIR$/com.itdr/pom.xml" />
+        <option value="$PROJECT_DIR$/mavdemo/pom.xml" />
       </list>
     </option>
   </component>
